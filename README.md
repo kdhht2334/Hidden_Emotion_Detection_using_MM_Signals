@@ -3,8 +3,7 @@
 
 <b>Paper Title</b>: "Hidden_Emotion_Detection_using_MM_Signals"\
 <b>ArXiv:</b> `Coming_soon`. \
-<b>Abstract:</b> \
-`Coming_soon`.
+<b>Abstract:</b> `Coming_soon`.
 
 
 ---
