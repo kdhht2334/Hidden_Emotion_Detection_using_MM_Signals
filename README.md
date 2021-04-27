@@ -1,4 +1,4 @@
-<h1><u>First Deep Learning-based Hidden Emotion Detection</u></h1>
+<h1><u>Deep Learning-based Hidden Emotion Detection</u></h1>
 
 
 <b>Paper Title</b>: "Hidden_Emotion_Detection_using_MM_Signals"\
@@ -15,7 +15,7 @@ Specifically, HED database consists not only raw video clips and EEG sensing sig
 
 ---
 
-Please cite the paper if you choose to use HED database for your research [[link]]().
+Please cite the paper if you choose to use HED database for your research [[link]](https://1drv.ms/u/s!AsMhRBCpiZ4ShcYgcfhDCHUcvZgHkA?e=ObmIgz).
 
 ```
 Coming_soon
