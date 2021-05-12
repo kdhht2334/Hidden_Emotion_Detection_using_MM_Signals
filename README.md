@@ -11,10 +11,10 @@
 
 - Qualitative results (both positive and negative inner emotional states)
 <p align="center">
-<img src="https://github.com/kdhht2334/Hidden_Emotion_Detection_using_MM_Signals/blob/main/pics/hed_pic_02.png" height="400", width="2500"/>
+<img src="https://github.com/kdhht2334/Hidden_Emotion_Detection_using_MM_Signals/blob/main/pics/hed_pic_02.png" height="300", width="3000"/>
 </p>
 <p align="center">
-<img src="https://github.com/kdhht2334/Hidden_Emotion_Detection_using_MM_Signals/blob/main/pics/hed_pic_03.png" height="400", width="2500"/>
+<img src="https://github.com/kdhht2334/Hidden_Emotion_Detection_using_MM_Signals/blob/main/pics/hed_pic_03.png" height="300", width="3000"/>
 </p>
 
 
