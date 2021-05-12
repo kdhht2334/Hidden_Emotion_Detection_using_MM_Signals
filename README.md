@@ -1,6 +1,8 @@
 <h1><u>Deep Learning-based Hidden Emotion Detection</u></h1>
 
-<b>Paper Title</b>: "Hidden Emotion Detection using Multi-modal Signals"
+<b>Paper Title</b>: Hidden Emotion Detection using Multi-modal Signals
+
+<b>Conference</b>: ACM CHI 2021
 
 <b>Abstract:</b> In order to better understand human emotion, we should not recognize only superfcial emotions based on facial images, but also analyze so-called inner emotions by considering biological signals such as electroencephalogram (EEG). ... This paper defnes a new task to detect hidden emotions, i.e., emotions in a situation where only the EEG signal is activated without the image signal being activated, and proposes a method to effectively detect the hidden emotions. ... As a result, this study has upgraded the technology of deeply understanding inner emotions.
 
@@ -22,12 +24,10 @@
 
 
 
-
-
 ---
 ### Notes
 
-We provide the HED database only for research purpose. The database consists of 246 video clips.
+We provide the HED database only for research purpose. The database consists of 246 video clips obtained from 23 experimental participants.
 
 Specifically, HED database consists not only raw video clips but also EEG signals pre-processed by numpy array (`.npy`) for research convenience.
 
