@@ -31,10 +31,12 @@ We provide the HED database only for research purpose. The database consists of 
 
 Specifically, HED database consists not only raw video clips but also EEG signals pre-processed by numpy array (`.npy`) for research convenience.
 
+- __Download link__: [[link]](https://1drv.ms/u/s!AsMhRBCpiZ4ShcYgcfhDCHUcvZgHkA?e=ObmIgz)
+
 ---
 ### Citation
 
-Please cite the paper if you choose to use HED database for your research [[link]](https://1drv.ms/u/s!AsMhRBCpiZ4ShcYgcfhDCHUcvZgHkA?e=ObmIgz).
+Please cite the paper if you choose to use HED database for your research.
 
 ```
 Coming_soon
