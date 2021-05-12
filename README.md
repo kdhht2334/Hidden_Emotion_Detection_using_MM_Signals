@@ -6,7 +6,7 @@
 
 - Basic setting of hidden emotion detection (HED)
 <p align="center">
-<img src="https://github.com/kdhht2334/Hidden_Emotion_Detection_using_MM_Signals/blob/main/pics/hed_pic_01.png" height="200", width="350"/>
+<img src="https://github.com/kdhht2334/Hidden_Emotion_Detection_using_MM_Signals/blob/main/pics/hed_pic_01.png" height="300", width="2254"/>
 </p>
 
 
