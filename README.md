@@ -34,10 +34,17 @@ Specifically, HED database consists not only raw video clips but also EEG signal
 - __Download link__: [[link]](https://1drv.ms/u/s!AsMhRBCpiZ4ShcYgcfhDCHUcvZgHkA?e=ObmIgz)
 
 ---
-### Citation
+### BibTeX
 
 Please cite the paper if you choose to use HED database for your research.
 
 ```
-Coming_soon
+@inproceedings{10.1145/3411763.3451721,
+author = {Song, Byung Cheol and Kim, Dae Ha},
+title = {Hidden Emotion Detection Using Multi-Modal Signals},
+year = {2021},
+doi = {10.1145/3411763.3451721},
+booktitle = {Extended Abstracts of the 2021 CHI Conference on Human Factors in Computing Systems},
+series = {CHI EA '21}
+}
 ```
