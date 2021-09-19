@@ -33,7 +33,6 @@ Specifically, HED database consists not only raw video clips but also EEG signal
 
 - For download raw video clips & Synced Visual/EEG npy 
   - Onedrive [[Link1]](https://1drv.ms/u/s!AsMhRBCpiZ4ShcYgcfhDCHUcvZgHkA?e=6UvaY3)
-  - Google drive [[Link2]](https://drive.google.com/drive/folders/1UcZmPjroh9M9_ZZ3bKOHWiukmQJt04J9?usp=sharing)
 
 ---
 ### BibTeX
