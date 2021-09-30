@@ -11,15 +11,15 @@
 
 - Basic setting of hidden emotion detection (HED)
 <p align="center">
-<img src="https://github.com/kdhht2334/Hidden_Emotion_Detection_using_MM_Signals/blob/main/pics/hed_pic_01.png" height="200", width="2254"/>
+<img src="https://github.com/kdhht2334/Hidden_Emotion_Detection_using_MM_Signals/blob/main/pics/hed_pic_01.png" height="185", width="2254"/>
 </p>
 
 - Qualitative results (both positive and negative inner emotional states)
 <p align="center">
-<img src="https://github.com/kdhht2334/Hidden_Emotion_Detection_using_MM_Signals/blob/main/pics/hed_pic_02.png" height="410", width="3000"/>
+<img src="https://github.com/kdhht2334/Hidden_Emotion_Detection_using_MM_Signals/blob/main/pics/hed_pic_02.png" height="350", width="3000"/>
 </p>
 <p align="center">
-<img src="https://github.com/kdhht2334/Hidden_Emotion_Detection_using_MM_Signals/blob/main/pics/hed_pic_03.png" height="410", width="3000"/>
+<img src="https://github.com/kdhht2334/Hidden_Emotion_Detection_using_MM_Signals/blob/main/pics/hed_pic_03.png" height="350", width="3000"/>
 </p>
 
 
